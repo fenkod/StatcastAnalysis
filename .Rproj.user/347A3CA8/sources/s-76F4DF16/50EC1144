@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548352160286.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "126144370",
+    "id" : "50EC1144",
+    "lastKnownWriteTime" : 1548352223,
+    "last_content_update" : 1548352223146,
+    "path" : "~/Repos/community/statcast_analysis/prototype/StatcastAnalysis.Rmd",
+    "project_path" : "prototype/StatcastAnalysis.Rmd",
+    "properties" : {
+        "cursorPosition" : "383,10",
+        "scrollLine" : "351",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
