@@ -379,6 +379,3 @@ data %>%
   arrange(desc(N)) %>%
   knitr::kable(format = "markdown")
 ```
-     
-          
-          
